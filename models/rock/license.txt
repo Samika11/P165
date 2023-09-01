@@ -1,0 +1,11 @@
+Model Information:
+* title:	rock formation
+* source:	https://sketchfab.com/3d-models/rock-formation-4a09d9b9b8ff44b9ace7b23216286bdb
+* author:	venetian65 (https://sketchfab.com/pielikepoly)
+
+Model License:
+* license type:	CC-BY-SA-4.0 (http://creativecommons.org/licenses/by-sa/4.0/)
+* requirements:	Author must be credited. Modified versions must have the same license. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "rock formation" (https://sketchfab.com/3d-models/rock-formation-4a09d9b9b8ff44b9ace7b23216286bdb) by venetian65 (https://sketchfab.com/pielikepoly) licensed under CC-BY-SA-4.0 (http://creativecommons.org/licenses/by-sa/4.0/)

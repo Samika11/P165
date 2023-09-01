@@ -1,0 +1,470 @@
+{
+  "accessors": [
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 158,
+      "max": [
+        -4.909031391143799,
+        7.988895893096924,
+        6.30864143371582
+      ],
+      "min": [
+        -7.101318359375,
+        3.5103960037231445,
+        -4.973407745361328
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 1896,
+      "componentType": 5126,
+      "count": 158,
+      "max": [
+        0.9957308769226074,
+        0.9908273220062256,
+        0.9936049580574036
+      ],
+      "min": [
+        -0.9963165521621704,
+        -0.9934780597686768,
+        -0.9851096272468567
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 158,
+      "max": [
+        0.23971641063690186,
+        0.8966403007507324
+      ],
+      "min": [
+        0.004221320152282715,
+        0.602149248123169
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "componentType": 5125,
+      "count": 576,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 3792,
+      "componentType": 5126,
+      "count": 6349,
+      "max": [
+        9.19729232788086,
+        17.71733856201172,
+        6.006418228149414
+      ],
+      "min": [
+        -9.762079238891602,
+        0.014199486002326012,
+        -4.760549545288086
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 79980,
+      "componentType": 5126,
+      "count": 6349,
+      "max": [
+        0.9993902444839478,
+        0.999764621257782,
+        0.9998468160629272
+      ],
+      "min": [
+        -0.999901533126831,
+        -0.9997645020484924,
+        -0.9994155764579773
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 1264,
+      "componentType": 5126,
+      "count": 6349,
+      "max": [
+        0.999334454536438,
+        0.9991602301597595
+      ],
+      "min": [
+        0.003316640853881836,
+        0.0025522075593471527
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 2304,
+      "componentType": 5125,
+      "count": 29250,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 156168,
+      "componentType": 5126,
+      "count": 57,
+      "max": [
+        15.945545196533203,
+        0.9446808099746704,
+        15.945545196533203
+      ],
+      "min": [
+        -14.88234806060791,
+        -4.743236064910889,
+        -14.88234806060791
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 156852,
+      "componentType": 5126,
+      "count": 57,
+      "max": [
+        0.9630755186080933,
+        0.9962904453277588,
+        0.9630755186080933
+      ],
+      "min": [
+        -0.9743643999099731,
+        0.2249755561351776,
+        -0.9743643999099731
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 3,
+      "componentType": 5126,
+      "count": 57,
+      "max": [
+        0.6426747441291809,
+        0.9533202052116394,
+        -0.200251966714859,
+        1.0
+      ],
+      "min": [
+        -0.3792608678340912,
+        -0.9552918076515198,
+        -0.993900716304779,
+        1.0
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 52056,
+      "componentType": 5126,
+      "count": 57,
+      "max": [
+        0.9763302803039551,
+        0.9762505292892456
+      ],
+      "min": [
+        0.024004265666007996,
+        0.02392200008034706
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 119304,
+      "componentType": 5125,
+      "count": 288,
+      "type": "SCALAR"
+    }
+  ],
+  "asset": {
+    "extras": {
+      "author": "Klayzen (https://sketchfab.com/klayzen)",
+      "license": "CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)",
+      "source": "https://sketchfab.com/3d-models/stylized-ogre-gameready-character-e723ecbfdd82413cac16f1cab196ee5f",
+      "title": "Stylized Ogre - GameReady Character"
+    },
+    "generator": "Sketchfab-13.68.0",
+    "version": "2.0"
+  },
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteLength": 120456,
+      "name": "floatBufferViews",
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 52512,
+      "byteOffset": 120456,
+      "byteStride": 8,
+      "name": "floatBufferViews",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 157536,
+      "byteOffset": 172968,
+      "byteStride": 12,
+      "name": "floatBufferViews",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 912,
+      "byteOffset": 330504,
+      "byteStride": 16,
+      "name": "floatBufferViews",
+      "target": 34962
+    }
+  ],
+  "buffers": [
+    {
+      "byteLength": 331416,
+      "uri": "scene.bin"
+    }
+  ],
+  "extensionsRequired": [
+    "KHR_materials_pbrSpecularGlossiness"
+  ],
+  "extensionsUsed": [
+    "KHR_materials_pbrSpecularGlossiness"
+  ],
+  "images": [
+    {
+      "uri": "textures/Ogre_Mat1_diffuse.png"
+    },
+    {
+      "uri": "textures/lambert2_diffuse.png"
+    },
+    {
+      "uri": "textures/lambert2_normal.png"
+    }
+  ],
+  "materials": [
+    {
+      "doubleSided": true,
+      "extensions": {
+        "KHR_materials_pbrSpecularGlossiness": {
+          "diffuseFactor": [
+            1.0,
+            1.0,
+            1.0,
+            1.0
+          ],
+          "diffuseTexture": {
+            "index": 0
+          },
+          "glossinessFactor": 0.4,
+          "specularFactor": [
+            0.0,
+            0.0,
+            0.0
+          ]
+        }
+      },
+      "name": "Ogre_Mat1"
+    },
+    {
+      "doubleSided": true,
+      "extensions": {
+        "KHR_materials_pbrSpecularGlossiness": {
+          "diffuseFactor": [
+            1.0,
+            1.0,
+            1.0,
+            1.0
+          ],
+          "diffuseTexture": {
+            "index": 1
+          },
+          "glossinessFactor": 0.0,
+          "specularFactor": [
+            0.0,
+            0.0,
+            0.0
+          ]
+        }
+      },
+      "name": "lambert2",
+      "normalTexture": {
+        "index": 2
+      }
+    }
+  ],
+  "meshes": [
+    {
+      "name": "axe_LP_Ogre_Mat1_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 1,
+            "POSITION": 0,
+            "TEXCOORD_0": 2
+          },
+          "indices": 3,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Ogre_LP_Ogre_Mat1_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 5,
+            "POSITION": 4,
+            "TEXCOORD_0": 6
+          },
+          "indices": 7,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "pCube1_lambert2_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 9,
+            "POSITION": 8,
+            "TANGENT": 10,
+            "TEXCOORD_0": 11
+          },
+          "indices": 12,
+          "material": 1,
+          "mode": 4
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "children": [
+        1
+      ],
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        2.220446049250313e-16,
+        -1.0,
+        0.0,
+        0.0,
+        1.0,
+        2.220446049250313e-16,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "name": "Sketchfab_model"
+    },
+    {
+      "children": [
+        2
+      ],
+      "matrix": [
+        0.009999999776482582,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.009999999776482582,
+        0.0,
+        0.0,
+        -0.009999999776482582,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "name": "3017f7f20fa2414b9fa1290dc141ec1e.fbx"
+    },
+    {
+      "children": [
+        3,
+        5,
+        7
+      ],
+      "name": "RootNode"
+    },
+    {
+      "children": [
+        4
+      ],
+      "name": "axe_LP"
+    },
+    {
+      "mesh": 0,
+      "name": "axe_LP_Ogre_Mat1_0"
+    },
+    {
+      "children": [
+        6
+      ],
+      "name": "Ogre_LP"
+    },
+    {
+      "mesh": 1,
+      "name": "Ogre_LP_Ogre_Mat1_0"
+    },
+    {
+      "children": [
+        8
+      ],
+      "name": "pCube1"
+    },
+    {
+      "mesh": 2,
+      "name": "pCube1_lambert2_0"
+    }
+  ],
+  "samplers": [
+    {
+      "magFilter": 9729,
+      "minFilter": 9987,
+      "wrapS": 10497,
+      "wrapT": 10497
+    }
+  ],
+  "scene": 0,
+  "scenes": [
+    {
+      "name": "Sketchfab_Scene",
+      "nodes": [
+        0
+      ]
+    }
+  ],
+  "textures": [
+    {
+      "sampler": 0,
+      "source": 0
+    },
+    {
+      "sampler": 0,
+      "source": 1
+    },
+    {
+      "sampler": 0,
+      "source": 2
+    }
+  ]
+}
